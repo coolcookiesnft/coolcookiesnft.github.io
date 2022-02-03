@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x5Db077c0140D76e83B9e6Bf2a763A19FBDa4347b",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x5Db077c0140D76e83B9e6Bf2a763A19FBDa4347b",
+  "NETWORK": {
+    "NAME": "Rinkeby",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "CoolCookies",
+  "SYMBOL": "COOKIE",
+  "MAX_SUPPLY": 100,
+  "WEI_COST": 30000000000000000,
+  "DISPLAY_COST": 0.03,
+  "GAS_LIMIT": 570000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/coolcookies",
+  "SHOW_BACKGROUND": true
+}
