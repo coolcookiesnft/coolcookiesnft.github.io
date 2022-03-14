@@ -1,10 +1,10 @@
 {
-  "CONTRACT_ADDRESS": "0x07466770AF090cA44d27679B472aA3E53113752F",
-  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x07466770AF090cA44d27679B472aA3E53113752F",
+  "CONTRACT_ADDRESS": "0xf880B2a16f257D0b9b8ab64351A07a4137527C82",
+  "SCAN_LINK": "https://etherscan.io/address/0xf880B2a16f257D0b9b8ab64351A07a4137527C82",
   "NETWORK": {
-    "NAME": "Rinkeby",
+    "NAME": "Ethereum Main",
     "SYMBOL": "ETH",
-    "ID": 4
+    "ID": 1
   },
   "NFT_NAME": "Cool Cookies",
   "SYMBOL": "COOKIE",
@@ -12,7 +12,7 @@
   "WEI_COST": 30000000000000000,
   "DISPLAY_COST": 0.03,
   "GAS_LIMIT": 570000,
-  "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://opensea.io/collection/cool-cookies",
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/coolcookies",
   "SHOW_BACKGROUND": true
 }
