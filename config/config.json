@@ -11,7 +11,7 @@
   "MAX_SUPPLY": 8888,
   "WEI_COST": 30000000000000000,
   "DISPLAY_COST": 0.03,
-  "GAS_LIMIT": 250000,
+  "GAS_LIMIT": 125000,
   "MARKETPLACE": "Opensea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/coolcookies",
   "SHOW_BACKGROUND": true
